@@ -1,8 +1,6 @@
 # git  
 ls  
 ls -a  
-rm -rf .git  
-ls -a  
 clear  
 git init  
 git status  
