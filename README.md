@@ -28,7 +28,6 @@ git log
 git show 33a38  
 clear  
 git status  
-git add abc.txt & git commit -m "third commit"  
 git log  
 git add abc.txt && git commit -m "third commit"  
 clear  
