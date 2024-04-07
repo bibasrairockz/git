@@ -1,73 +1,66 @@
 # git  
-1  ls  
-    2  ls -a  
-    3  rm -rf .git  
-    4  ls -a  
-    5  clear  
-    6  git init  
-    7  git status  
-    8  git add .  
-    9  git status  
-   10  git commit -m "first commit"  
-   11  git config --global user.email "youremail@gmail.com"   
-   12  git config --global user.name "gitusername"    
-   13  git commit -m "first commit"    
-   14  git --version  
-   15  which git  
-   16  clear  
-   17  git config --list  
-   18  history  
+ls  
+ls -a  
+rm -rf .git  
+ls -a  
+clear  
+git init  
+git status  
+git add .  
+git status  
+git commit -m "first commit"  
+git config --global user.email "youremail@gmail.com"   
+git config --global user.name "gitusername"    
+git commit -m "first commit"    
+git --version  
+which git  
+clear  
+git config --list  
+history  
      
-   git log  
-   21  gti status  
-   22  git status  
-   23  git add abc.txt  
-   24  cleqar  
-   25  clear  
-   26  git status  
-   27  git commit -m "second commit"  
-   28  git log  
-   29  git show 33a38  
-   30  clear  
-   31  git status  
-   32  git add abc.txt & git commit -m "third commit"  
-   33  git log  
-   34  git add abc.txt && git commit -m "third commit"  
-   35  clear  
-   36  git log  
-   37  git show fa781e  
-   38  git show 33a38  
-   39  git show 7e8ead  
-   40  clear  
-   41  conda create -p env python=3.8 -y  
-   42  git add env  
-   43  git add .  
-   44  git status  
-   45  git restore  
-   46  git restore .  
-   47  git status  
-   48  git rm --cache  
-   49  git status  
-   50  git reset .  
-   51  git status  
-   52  clear  
-   53  history  
-   git branch  
-   55  git branch testgfirstbranch  
-   56  git branch  
-   57  git checkout testgfirstbranch  
-   58  git log  
-   59  git status  
-   60  git add .  
-   61  git commit -m "fourth commit"  
-   62  git log  
-   63  git branch  
-   64  git chekout master  
-   65  git checkout master  
-   66  git branch  
-   67  git merge testgfirstbranch  
-   68  clear  
-   69  git branch  
-   70  history  
+git log  
+git status  
+git add abc.txt  
+clear  
+git status  
+git commit -m "second commit"  
+git log  
+git show 33a38  
+clear  
+git status  
+git add abc.txt & git commit -m "third commit"  
+git log  
+git add abc.txt && git commit -m "third commit"  
+clear  
+git log  
+git show fa781e  
+git show 33a38  
+git show 7e8ead  
+clear  
+conda create -p env python=3.8 -y  
+git add env  
+git add .  
+git status  
+git reset .  
+git status  
+clear  
+history  
+branch  
+git branch testgfirstbranch  
+git branch  
+git checkout testgfirstbranch  
+git log  
+git status  
+git add .  
+git commit -m "fourth commit"  
+git log  
+git branch  
+git chekout master  
+git checkout master  
+git branch  
+git merge testgfirstbranch  
+clear  
+git branch  
+history  
    
    
