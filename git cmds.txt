@@ -8,8 +8,8 @@
     8  git add .
     9  git status
    10  git commit -m "first commit"
-   11  git config --global user.email "engsunny3365@gmail.com"
-   12  git config --global user.name "sunnysavita10"
+   11  git config --global user.email "youreamil@gmail.com"
+   12  git config --global user.name "gitusername"
    13  git commit -m "first commit"
    14  git --version
    15  which git
