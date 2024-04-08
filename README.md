@@ -89,7 +89,7 @@ touch stashingdemo.txt
 git add .  
 git commit -m "stashed file updated"  
 git stash  
-git stash list
+git stash list  
 git stash apply stash@{0}  
 git stash apply stash@{2}  
 git add .  
