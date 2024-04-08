@@ -57,6 +57,46 @@ git branch
 git merge testgfirstbranch  
 clear  
 git branch  
+history
+
+DAY 2:
+ls -a  
+cd .git   
+ls    
+git status  
+clear  
+cd ..  
+ls -a  
+clear  
+git status  
+git add .  
+git status  
+git commit -m "file deleted"  
+clear  
+git status  
+git branch  
+git branch -d testgfirstbranch 
+clear  
+git branch  
+history  
+git branch   
+python testing.py  
+git add testing  
+clear  
+git status  
+git merge branch1  
+touch stashingdemo.txt  
+git add .  
+git commit -m "stashed file updated"  
+git stash  
+git stash list
+git stash apply stash@{0}  
+git stash apply stash@{2}  
+git add .  
+git commit -m "text is updated"  
+git stash clear 
+git log --oneline  
+git revert 48b5298  
 history  
    
    
