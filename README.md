@@ -58,8 +58,8 @@ git merge testgfirstbranch
 clear  
 git branch  
 history
-
-DAY 2:
+  
+DAY 2:  
 ls -a  
 cd .git   
 ls    
