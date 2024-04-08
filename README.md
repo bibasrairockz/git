@@ -22,7 +22,7 @@ clear
 git status  
 git commit -m "second commit"  
 git log  
-git show 33a38  
+git show 6340da  
 clear  
 git status  
 git log  
