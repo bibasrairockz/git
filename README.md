@@ -98,5 +98,7 @@ git stash clear
 git log --oneline  
 git revert 48b5298  
 history  
+
+git push origin main
    
    
