@@ -100,5 +100,6 @@ git revert 48b5298
 history  
 
 git push origin main  
-   
+//check git version
+git version v
    
