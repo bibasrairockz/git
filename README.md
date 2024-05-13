@@ -102,4 +102,7 @@ history
 git push origin main  
 //check git version
 git version v
+//add remote orgin 
+git remote add origin https://github.com/OWNER/REPOSITORY.git
+
    
