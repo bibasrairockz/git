@@ -123,3 +123,4 @@
   123  git stash list
   124  clear
   125  history
+git remote add origin https://github.com/OWNER/REPOSITORY.git
