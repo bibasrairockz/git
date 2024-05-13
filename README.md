@@ -100,9 +100,11 @@ git revert 48b5298
 history  
 
 git push origin main  
-//check git version
-git version v
-//add remote orgin 
-git remote add origin https://github.com/OWNER/REPOSITORY.git
+//check git version  
+git version v  
+//add remote orgin  
+git remote add origin REPOSITORY.git  
+// force push  
+git push -f origin main  
 
    
